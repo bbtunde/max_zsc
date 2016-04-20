@@ -1,0 +1,26 @@
+{
+	"restaurants": [{
+			"id": "1",
+			"name": "The Place",
+			"close_time": "18:00",
+			"distance": "0.5",
+			"rating": "4",
+			"logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_V_flZJIkAT1VDTKSNiUVWLalivDsogaYmvOjwNoTR_cuGpQv"
+		}, {
+			"id": "2",
+			"name": "Chicken Republic",
+			"close_time": "20:00",
+			"distance": "0.5",
+			"rating": "5",
+			"logo": "https://pbs.twimg.com/profile_images/425609383188652032/lNsL4bhO.jpeg"
+		}, {
+			"id": "3",
+			"name": "The Prawn Shop",
+			"close_time": "21:00",
+			"distance": "1.1",
+			"rating": "3",
+			"logo": "https://bunge.s3.amazonaws.com/categories/images/000/000/006/content/Super-Cat-Food-Ingredients.jpg"
+		}
+
+	]
+}
