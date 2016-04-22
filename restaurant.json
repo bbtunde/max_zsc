@@ -4,12 +4,6 @@
 	"logo": "https://pbs.twimg.com/profile_images/425609383188652032/lNsL4bhO.jpeg",
 	"menulist": [
 		"id": "1",
-		"name": "Breakfast",
-		"menu_items": [{
-			"id": "mi2",
-			"name": "Cornflakes and Milk",
-			"price": "2300.00",
-			"image":"http://cimg2.ibsrv.net/cimg/www.fitday.com/693x350_100-1/638/cornflakes-108638.jpg"
-		}]
+		"name": "Breakfast"
 	]
 }
