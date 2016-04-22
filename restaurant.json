@@ -2,8 +2,8 @@
 	"id": "1",
 	"name": "Chicken Republic",
 	"logo": "https://pbs.twimg.com/profile_images/425609383188652032/lNsL4bhO.jpeg",
-	"menulist": [
+	"menulist": [{
 		"id": "1",
 		"name": "Breakfast"
-	]
+	}]
 }
