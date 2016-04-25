@@ -16,6 +16,37 @@
 				"price": "2300.00",
 				"image":"http://cimg2.ibsrv.net/cimg/www.fitday.com/693x350_100-1/638/cornflakes-108638.jpg"
 			}]
+		},
+		{
+			"id": "2",
+			"name": "Swallows",
+			"menu_items": [{
+				"id": "mi3",
+				"name": "Eba",
+				"price": "100.00",
+				"image":"http://www.jollofonline.com/cms/wp-content/uploads/food-eba.jpg"
+			}, 
+			{
+				"id": "mi4",
+				"name": "Semo",
+				"price": "100.00",
+				"image":"https://i.ytimg.com/vi/QI8RlSKV9jA/hqdefault.jpg"
+			},
+
+			{
+				"id": "mi5",
+				"name": "Pounded Yam",
+				"price": "100.00",
+				"image":"https://i.ytimg.com/vi/QI8RlSKV9jA/hqdefault.jpg"
+			},
+
+			{
+				"id": "mi6",
+				"name": "Amala",
+				"price": "100.00",
+				"image":"http://www.deliver-us.co.uk/wp-content/uploads/2013/06/Amala-Sun-dried-yam-flour-mash.jpg"
+			}]
 		}
+
 	]
 }
