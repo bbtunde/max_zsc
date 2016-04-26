@@ -1,0 +1,53 @@
+"menu_items": [
+	{
+				"id": "mi2",
+				"name": "Cornflakes and Milk",
+				"price": "2300.00",
+				"image":"http://cimg2.ibsrv.net/cimg/www.fitday.com/693x350_100-1/638/cornflakes-108638.jpg"
+	},
+	{
+				"id": "mi3",
+				"name": "Eba",
+				"price": "100.00",
+				"image":"http://www.jollofonline.com/cms/wp-content/uploads/food-eba.jpg"
+	}, 
+	{
+				"id": "mi4",
+				"name": "Semo",
+				"price": "100.00",
+				"image":"https://i.ytimg.com/vi/QI8RlSKV9jA/hqdefault.jpg"
+	},
+	{
+				"id": "mi5",
+				"name": "Pounded Yam",
+				"price": "100.00",
+				"image":"https://i.ytimg.com/vi/QI8RlSKV9jA/hqdefault.jpg"
+	},
+
+	{
+				"id": "mi6",
+				"name": "Amala",
+				"price": "100.00",
+				"image":"http://www.deliver-us.co.uk/wp-content/uploads/2013/06/Amala-Sun-dried-yam-flour-mash.jpg"
+	},
+	{
+				"id": "mi7",
+				"name": "Sweetcorn and Chicken Noodles",
+				"price": "3200.00",
+				"image":"http://www.taste.com.au/images/recipes/tas/2007/05/chicken-and-sweet-corn-soup-12061_l.jpeg"
+	}, 
+	{
+				"id": "mi8",
+				"name": "Prawn and Noodles",
+				"price": "100.00",
+				"image":"https://phslangfest.files.wordpress.com/2010/03/prawn_noodles.jpg"
+	},
+
+	{
+				"id": "mi9",
+				"name": "Fried Egg and Noodles",
+				"price": "100.00",
+				"image":"http://www.delicious-food.tv/wp-content/uploads/2016/04/fried-egg_2.jpg"
+	}
+	
+]
