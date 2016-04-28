@@ -4,9 +4,10 @@
 		{
 				"menu_item_id": "mi2",
 				"menu_item_name": "Cornflakes and Milk",
-				"menu_group_id": "34",
-				"menu_group_name": "Breakfast",
-				"restaurant_id": "3",
+				"rating":5,
+				"distance": "2.7",
+				"edt" : "40 mins",
+				"restaurant_id": "2",
 				"restaurant_name": "Chicken Republic",
 				"price": "2300.00",
 				"image":"http://cimg2.ibsrv.net/cimg/www.fitday.com/693x350_100-1/638/cornflakes-108638.jpg",
