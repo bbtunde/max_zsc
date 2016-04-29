@@ -7,8 +7,10 @@
 			"town": "Lekki",
 			"label": "work",
 			"lat": "",
-			"lng": ""
-		}, {
+			"lng": "",
+			"default": 0
+		}, 
+		{
 			"id": "2",
 			"nickname": "My Egbeda Home",
 			"no": "356",
@@ -16,7 +18,8 @@
 			"town": "Egbeda",
 			"label": "home",
 			"lat": "",
-			"lng": ""
+			"lng": "",
+			"default":1
 		}, {
 			"id": "3",
 			"nickname": "Bidemi's Home",
@@ -25,7 +28,8 @@
 			"town": "Ajah",
 			"label": "other",
 			"lat": "",
-			"lng": ""
+			"lng": "",
+			"default":0
 		}
 
 	]
