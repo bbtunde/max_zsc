@@ -1,0 +1,32 @@
+{
+	"addresses": [{
+			"id": "1",
+			"nickname": "MAX - My Work Address In Lekki",
+			"no": "16b",
+			"line": "Kingsley Emu Street, off Admiralty Way",
+			"town": "Lekki",
+			"label": "work",
+			"lat": "",
+			"lng": ""
+		}, {
+			"id": "2",
+			"nickname": "My Egbeda Home",
+			"no": "356",
+			"line": "Road 12, 1st Avenue, Gowon Estate",
+			"town": "Egbeda",
+			"label": "home",
+			"lat": "",
+			"lng": ""
+		}, {
+			"id": "3",
+			"nickname": "Bidemi's Home",
+			"no": "m55a",
+			"line": "Road 23, VGC",
+			"town": "Ajah",
+			"label": "other",
+			"lat": "",
+			"lng": ""
+		}
+
+	]
+}
