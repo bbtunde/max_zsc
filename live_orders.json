@@ -3,14 +3,14 @@
 		{
 			"id": "MAX9384840",
 			"restaurant_id": "2",
-			"restauarant_name": "Chicken Republic",
+			"restaurant_name": "Chicken Republic",
 			"status": "Waiting",
 			"date_ordered": "2016-05-02 12:20:00"
 		},
 		{
 			"id": "MAX9384440",
 			"restaurant_id": "1",
-			"restauarant_name": "The Place",
+			"restaurant_name": "The Place",
 			"status": "Picked Up",
 			"date_ordered": "2016-05-02 11:56:00"
 		
@@ -18,7 +18,7 @@
 		{
 			"id": "MAX9273890",
 			"restaurant_id": "2",
-			"restauarant_name": "Mr Biggs",
+			"restaurant_name": "Mr Biggs",
 			"status": "Accepted",
 			"date_ordered": "2016-05-02 12:10:00"
 		}
