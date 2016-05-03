@@ -5,6 +5,7 @@
 			"restaurant_id": "2",
 			"restaurant_name": "Chicken Republic",
 			"status": "Waiting",
+			"reason":null,
 			"date_ordered": "2016-05-02 12:20:00"
 		},
 		{
@@ -12,6 +13,7 @@
 			"restaurant_id": "1",
 			"restaurant_name": "The Place",
 			"status": "Picked Up",
+			"reason":null,
 			"date_ordered": "2016-05-02 11:56:00"
 		
 		}, 
@@ -20,6 +22,7 @@
 			"restaurant_id": "2",
 			"restaurant_name": "Mr Biggs",
 			"status": "Accepted",
+			"reason":null,
 			"date_ordered": "2016-05-02 12:10:00"
 		}
 
