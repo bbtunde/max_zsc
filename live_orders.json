@@ -6,6 +6,7 @@
 			"restaurant_name": "Chicken Republic",
 			"status": "Waiting",
 			"reason":null,
+			"champion_id": null,
 			"date_ordered": "2016-05-02 12:20:00"
 		},
 		{
@@ -14,6 +15,7 @@
 			"restaurant_name": "The Place",
 			"status": "Picked Up",
 			"reason":null,
+			"champion_id": 2,
 			"date_ordered": "2016-05-02 11:56:00"
 		
 		}, 
@@ -23,6 +25,7 @@
 			"restaurant_name": "Mr Biggs",
 			"status": "Accepted",
 			"reason":null,
+			"champion_id": null,
 			"date_ordered": "2016-05-02 12:10:00"
 		}
 

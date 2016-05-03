@@ -6,6 +6,7 @@
 			"restaurant_name": "Smoothies 4 Real",
 			"status": "Rejected",
 			"reason": "Ingredients currently not available",
+			"champion_id":null,
 			"date_ordered": "2016-05-02 12:20:00"
 		},
 		{
@@ -14,6 +15,7 @@
 			"restaurant_name": "Yummy Can",
 			"status": "Delivered",
 			"reason":null,
+			"champion_id": 3,
 			"date_ordered": "2016-05-02 11:56:00"
 		
 		}
